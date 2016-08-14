@@ -1,4 +1,4 @@
-<a href="http://protected-anchorage-33362.herokuapp.com/">DEMO</a>
+<a href="http://waspfreak.github.io/curso/public/carousel.html">DEMO</a>
 
 <h1>ReactJs Slider</h1>
 <p>Slider only use React and createClass</p>
